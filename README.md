@@ -1,8 +1,21 @@
-# Welcome to your Lovable project
+
+# Executive AI Leadership Program
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/91b08d2e-97f4-4295-9b94-49dde700cfaf
+
+## Deployment
+
+This project is configured for GitHub Pages deployment. To deploy:
+
+1. Push your code to the `main` branch of your GitHub repository
+2. Go to your repository on GitHub
+3. Navigate to Settings > Pages
+4. Under "Source", select "GitHub Actions"
+5. The deployment will happen automatically when you push to main
+
+Your site will be available at: `https://yourusername.github.io/your-repository-name/`
 
 ## How can I edit this code?
 
@@ -59,10 +72,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/91b08d2e-97f4-4295-9b94-49dde700cfaf) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
