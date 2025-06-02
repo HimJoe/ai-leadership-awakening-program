@@ -1,9 +1,12 @@
-
 # Executive AI Leadership Program
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/91b08d2e-97f4-4295-9b94-49dde700cfaf
+
+## Live Site
+
+This site is deployed on GitHub Pages at: https://himjoe.github.io/ai-leadership-awakening-program/
 
 ## Deployment
 
@@ -15,7 +18,7 @@ This project is configured for GitHub Pages deployment. To deploy:
 4. Under "Source", select "GitHub Actions"
 5. The deployment will happen automatically when you push to main
 
-Your site will be available at: `https://yourusername.github.io/your-repository-name/`
+Your site will be available at: `https://himjoe.github.io/ai-leadership-awakening-program/`
 
 ## How can I edit this code?
 
